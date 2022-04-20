@@ -1,5 +1,6 @@
 body {
     background: linear-gradient(to top left, rgb(0, 255, 221), rgb(59, 144, 255));
+    height: 1000px;
 }
 
 .big {
