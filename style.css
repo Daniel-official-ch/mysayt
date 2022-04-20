@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to top left, rgb(0, 255, 221), rgb(59, 144, 255));
+}
+
+.big {
+    text-decoration: none;
+    text-align: center;
+}
+
+.tahmina {
+    color: darkmagenta;
+}
+
+a { 
+    text-decoration: none; 
+    color: rgb(146, 81, 199);
+}
